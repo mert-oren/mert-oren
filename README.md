@@ -5,12 +5,6 @@
   with JavaScript, TypeScript, React Native, Vite, and REST APIs.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-Clean%20%26%20Responsive-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-0f172a?style=for-the-badge" />
-</p>
-
 ---
 
 ## About Me
@@ -57,9 +51,10 @@ My main interest is creating practical applications that combine good UI with re
 
 ### Tools
 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
