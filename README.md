@@ -82,7 +82,6 @@ My main interest is creating practical applications that combine good UI with re
 
 - Student Management App
 - Rent a Car App
-- Recipe Explorer
 - Finance App UI
 - Dynamic List Builder
 
