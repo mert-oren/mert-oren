@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mert 👋</h1>
+<h1 align="center">Mert here!</h1>
 
 <p align="center">
   <strong>Frontend Developer</strong> focused on building clean, responsive, and user-friendly interfaces
